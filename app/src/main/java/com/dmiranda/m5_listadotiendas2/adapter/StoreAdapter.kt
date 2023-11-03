@@ -7,6 +7,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.dmiranda.m5_listadotiendas2.databinding.ItemDetailBinding
 import com.dmiranda.m5_listadotiendas2.R
+import com.dmiranda.m5_listadotiendas2.model.Store
 
 class StoreAdapter(
     private val storeList: List<Store>
